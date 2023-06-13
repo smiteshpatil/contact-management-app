@@ -6,6 +6,7 @@ you can view site here 👉 : https://iridescent-kataifi-3c6d17.netlify.app/
 
 
 Project Overview:
+
 A contact book to add contact deatils and edit the existing ones.
 
   • implemented contact state management using redux
